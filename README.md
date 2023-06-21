@@ -4,11 +4,9 @@ Projeto de página para salvar perfis favoritos do Github.
 
 
 
-
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/vMR7Hyo.png)
-
 
 ## Criando esse projeto aprendi:
     Conceitos da POO;
@@ -25,7 +23,6 @@ Projeto de página para salvar perfis favoritos do Github.
     Desestruturação no JavaScript;
     Async functions;
     Try, catch e throw;
-
 
 ## Tecnologias
 
